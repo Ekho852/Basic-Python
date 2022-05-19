@@ -9,3 +9,10 @@ print()
 # Python is typically left side binding as the below would cause an error if right sided
 # ie (6%2) = 0 -> (9%0) = error
 print(9 % 6 % 2)
+print()
+
+# Exception is for exponents
+# Left sided would equal = (2^2) = 4 -> 4^3 = 64
+# Right sided would equal = (2^3) = 8 -> 2^8 = 256 
+
+print(2 ** 2 ** 3)
