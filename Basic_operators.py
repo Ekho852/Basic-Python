@@ -11,11 +11,11 @@ print(2-1)
 print()
 print(2*2)
 
-# "/" symbol is division (note: single \ generates float ie fraction)
+# "/" symbol is division (note: single / generates float ie fraction)
 print()
 print(7/2)
 
-# "//" symbol is division (note: double \ generates integer and typically rounds down)
+# "//" symbol is division (note: double / generates integer and typically rounds down)
 print()
 print(7//2)
 
