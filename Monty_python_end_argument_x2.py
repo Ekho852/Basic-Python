@@ -1,6 +1,5 @@
-#Keyword argument "sep" ie separator
+#Keyword argument "end" ie at to end
 
-print("My", "name", "is", "Monty", "Python")
-print()
-print("My", "name", "is", "Monty", "Python", sep="-")
+print("My", "name", "is", "Monty", "Python",end=" My name is Monty Python")
+
 #Any keyword arguments have to be put after the last positional argument
