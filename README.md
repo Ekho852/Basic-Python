@@ -1,1 +1,1 @@
-# Basic-Python
+Basic python commands to keep while learning
