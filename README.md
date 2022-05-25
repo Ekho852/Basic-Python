@@ -1,1 +1,1 @@
-Basic python commands to keep while learning
+Repo to maintain and reference back to Python code and projects
